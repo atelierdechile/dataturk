@@ -4,19 +4,25 @@
     { "type": "Feature",
       "geometry": {         "type": "Point",             "coordinates": [          289.444397,           -33.451609         ] },
       "properties": {    "name": "Universidad de Chile",
-		                     "panes": ""
+		         "sede": "aaa"
                     }
     },
   { "type": "Feature",
       "geometry": {         "type": "Point",         "coordinates": [          289.40459221,         -33.4358329        ]    },
       "properties": {    "name": "Universidad Católica",
-		                     "panes": "pan albahaca/ajo, bollos de anís, limón"
+		         "sede": "sss"
+                    }
+    },
+  { "type": "Feature",
+      "geometry": {         "type": "Point",         "coordinates": [          288.7573713,       -29.9129628      ]    },
+      "properties": {    "name": "Universidad La Serena",
+		         "sede": "sss"
                     }
     },
     { "type": "Feature",
       "geometry": {     "type": "Point",      "coordinates": [          289.3713524,           -33.4449013         ]   },
       "properties": {     "name": "La Panadera",
-	                      	"panes": "Baquettes au levain, Hogazas, Bolleria, Ciabattas"
+	                  "sede": "xxxx"
       }
     }
   ]
